@@ -1,18 +1,22 @@
-## Machine Learning Techniques hw1 - NTU
+## NTU - Machine Learning Techniques hw1 
 
-perform by python
+Implementing in Python.
 
 
 ### Python libraries used
-`cvxopt`: for Quadratic Programming
+`cvxopt`: for Quadratic Programming.
+
 `scipy`: a stack of libraries containing `numpy`, `matplotlib`, `sklearn`, ...
-`matplotlib`: for plot
-`sklearn`: for SVM model
-`numpy`: for data processing
+
+`matplotlib`: for plot.
+
+`sklearn`: for SVM model.
+
+`numpy`: for data processing.
 
 ## Command
-### Question 3, 4
-Note: use
+use
+```
 python hw1.py
-
-and then output information abount the question and output images
+```
+will print information about questions and output images.
